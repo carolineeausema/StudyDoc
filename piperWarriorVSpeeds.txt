@@ -1,0 +1,11 @@
+Best_Glide_Speed Vg 73
+Stall_in_Landing_Configuration Vso 44
+Stall_in_Clean_Configuration Vs1 50
+Rotate_Speed Vr 55
+Best_Angle_of_Climb Vx 63
+Best_Rate_of_Climb Vy 79
+Enroute_Climb - 87
+Maneuvering_Speed Va 111
+Flap_Extension_Speed Vfe 103
+Max_Structural_Cruising_Speed Vno 126
+Never_Exceed Vne 160
