@@ -1,6 +1,15 @@
 # StudyDoc
 Tkinter GUI study source: "flashcards" and written practice for Piper Warrior II V-Speeds.
 
+## Preview:
+#### 1. Run study-guide.py
+- Click the 'Name' Button to review the full name of the V-Speed.
+- Click the 'Speed' Button to see the term definition in knots.
+#### 2. Click 'Practice' Button
+- Type in the definition of the corresponding term. Press enter.
+-<img src="./img/previewFlash.png" width="200" align="right"/>
+-<img src="./img/previewInput.png" width="200" align="right"/>
+
 ## Methods Per Class:
 - ### **__init__(self, master)**
   In both classes, this method is used to initialize widgets according to the source file's data, configure widget/frame functionality, and push the widgets to the Frame.
